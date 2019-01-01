@@ -1,0 +1,23 @@
+body{
+
+  background: white;
+}
+
+h1{
+  font-family: Consolas;
+  fon
+  color: rgb(28, 25,255);
+}
+
+.firstDiv{
+  color:green;
+}
+
+#single{
+  color:yellow;
+}
+
+#phrase{
+  color: red;
+  font-family: 'Charm', cursive;
+}
